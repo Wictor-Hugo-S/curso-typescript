@@ -1,0 +1,32 @@
+
+
+div{
+
+    display: flex;
+    flex-direction: column;
+ 
+    justify-content: center;
+    gap: 30px;
+    
+    width: 300px;
+   
+   
+    
+}
+
+.teste{
+   
+    padding: 30px;
+    background-color: orange;
+}
+
+button{
+
+    padding: 20px;
+    width: 100%;
+    max-width: 300px;
+    cursor: pointer;
+    background-color: purple;
+    border: none;
+    color: whitesmoke;
+}
